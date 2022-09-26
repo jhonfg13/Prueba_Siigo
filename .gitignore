@@ -1,0 +1,6 @@
+/Modelo
+/Validaciones
+/Codigo/__pycache__
+*.py
+*.xlsx
+.ipynb_checkpoints
